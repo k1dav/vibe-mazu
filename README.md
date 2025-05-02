@@ -16,14 +16,15 @@
 
 ## 技術規格
 
-- 前端框架：React
+- 前端框架：Vue.js (CDN 版本)
 - 地圖功能：Leaflet
 - 即時更新：WebSocket 或 REST API
 - 響應式設計：支援各種裝置尺寸
 
 ## 開發環境設定
 
-（待補充）
+1. 直接使用瀏覽器開啟 `index.html` 即可開始開發
+2. 使用 Vue.js CDN 版本，無需額外安裝或設定
 
 ## API 規格
 
